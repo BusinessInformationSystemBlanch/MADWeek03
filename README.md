@@ -7,6 +7,8 @@ The goals of this weeks lab are to:
 - Add multiple inputs
 - Add a button
 - Make the button respond when pressed
+- Edit styles
+- Add REGEX
 
 # Step 1 - Adding an Image
 
