@@ -121,7 +121,18 @@ marginVertical: 10,
 
 Now apply these styles to your components using the `style` prop. Update your `<View>` tag to:
 
-<View style={styles.container}> ``Update each of your three `<TextInput>` tags to include:`` style={styles.input} ``And update your `<Text>` tag to include:`` style={styles.text} ```Run your app and see how the layout changes. Try changing some of the values in`styles`(e.g.`padding`, `borderColor`, `backgroundColor`) and see how the app updates.
+```
+
+<View style={styles.container}> 
+
+```
+
+Update each of your three `<TextInput>` tags to include: 
+  `` style={styles.input} `` 
+  And update your `<Text>` tag to include: 
+  `` style={styles.text} 
+  
+  Run your app and see how the layout changes. Try changing some of the values in `styles`(e.g.`padding`, `borderColor`, `backgroundColor`) and see how the app updates.
 
 Save your work and commit your changes.
 
